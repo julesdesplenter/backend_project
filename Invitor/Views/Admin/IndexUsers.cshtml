@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Invitor.Model.Person>
+@{
+    ViewData["Title"] = "IndexUsers";
+    Layout = "~/Views/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>IndexUsers</h1>
+<a href="/Identity/Account/Register">Maak een nieuwe gebruiker aan</a>
+
+
+@foreach (var item in Model)
+{
+
+
+    <dd>
+        item.Name
+    </dd>
+  
+
+
+}
+

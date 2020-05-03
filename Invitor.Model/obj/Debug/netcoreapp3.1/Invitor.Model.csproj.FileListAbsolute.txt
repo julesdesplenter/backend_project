@@ -1,0 +1,8 @@
+C:\Users\jules\Documents\school\backend\backend_project\Invitor.Model\bin\Debug\netcoreapp3.1\Invitor.Model.deps.json
+C:\Users\jules\Documents\school\backend\backend_project\Invitor.Model\bin\Debug\netcoreapp3.1\Invitor.Model.dll
+C:\Users\jules\Documents\school\backend\backend_project\Invitor.Model\obj\Debug\netcoreapp3.1\Invitor.Model.csprojAssemblyReference.cache
+C:\Users\jules\Documents\school\backend\backend_project\Invitor.Model\obj\Debug\netcoreapp3.1\Invitor.Model.AssemblyInfoInputs.cache
+C:\Users\jules\Documents\school\backend\backend_project\Invitor.Model\obj\Debug\netcoreapp3.1\Invitor.Model.AssemblyInfo.cs
+C:\Users\jules\Documents\school\backend\backend_project\Invitor.Model\bin\Debug\netcoreapp3.1\Invitor.Model.pdb
+C:\Users\jules\Documents\school\backend\backend_project\Invitor.Model\obj\Debug\netcoreapp3.1\Invitor.Model.dll
+C:\Users\jules\Documents\school\backend\backend_project\Invitor.Model\obj\Debug\netcoreapp3.1\Invitor.Model.pdb
